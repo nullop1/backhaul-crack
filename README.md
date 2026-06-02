@@ -1,3 +1,13 @@
-# بکهال کرک 
-این پروژه فقط برای نصب اسان بک هال کرک هست
-استفاده:
+# Backhaul Premium Installer (Cracked) 🚀
+
+این اسکریپت برای نصب آسان و سریع نسخه پرمیوم بک‌هال طراحی شده است.
+
+## 📢 کانال تلگرام ما
+برای دریافت آپدیت‌ها و آموزش‌های بیشتر به کانال ما بپیوندید:
+[Telegram: @nullop2](https://t.me/nullop2)
+
+## ⚡ نحوه نصب و اجرا
+برای نصب فقط کافیست دستور زیر را در ترمینال سرور خود کپی و اجرا کنید:
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/nullop1/backhaul-crack/main/install.sh)

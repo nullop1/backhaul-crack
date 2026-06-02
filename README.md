@@ -9,5 +9,4 @@
 ## ⚡ نحوه نصب و اجرا
 برای نصب فقط کافیست دستور زیر را در ترمینال سرور خود کپی و اجرا کنید:
 
-```bash
-bash <(curl -Ls https://raw.githubusercontent.com/nullop1/backhaul-crack/main/install.sh)
+**soon**
